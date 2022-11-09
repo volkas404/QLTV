@@ -7,6 +7,6 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="lib" path="Lib/mssql-jdbc-9.2.1.jre15.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Administrator/eclipse-workspace/QuanLyThuVien/Lib/jcalendar-1.4.jar"/>
+	<classpathentry kind="lib" path="Lib/jcalendar-1.4.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

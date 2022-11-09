@@ -1,6 +1,7 @@
 package Connect;
 
-	import java.sql.SQLException;
+import java.sql.SQLException;
+
 import java.sql.Connection;
 import java.sql.DriverManager;
 
